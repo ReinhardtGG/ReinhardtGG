@@ -1,16 +1,22 @@
-## Hi there 👋
+# Raynard Gingoyon
 
-<!--
-**ReinhardtGG/ReinhardtGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### _Taking a crack at Tech_
 
-Here are some ideas to get you started:
+<span>Complete newbie in programming coming from a maritime background but definitely excited to break down the barriers of understanding.</span>
+<span>I am **currently learning Python** as my first step into the depths of tech.</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I've accomplished so far**
+---
+- ✅ "Hello, world!" in C, Python, and HTML (pretty cool, I know).
+- ✅ Assisted in **creating a print management web resource** for a university.
+- ✅ Processed data from .csv files by creating an algorithm in a Jupyter notebook.
+- ✅ Watched a few lectures in full from **Harvard's CS50x 2025** (proud to say I know what "initializing a variable" means).
+
+**Languages and Other Skills**
+<p align="left">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ai,ps,ae,pr,au,html,css,c" />
+</a>
+</p>
+
+If you have some opportunities for me, feel free to contact me at raynardgg@gmail.com.
