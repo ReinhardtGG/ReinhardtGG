@@ -11,6 +11,7 @@
 - ✅ Assisted in **creating a print management web resource** for a university.
 - ✅ Processed data from .csv files by creating an algorithm in a Jupyter notebook.
 - ✅ Watched a few lectures in full from **Harvard's CS50x 2025** (proud to say I know what "initializing a variable" means).
+- ✅ Created this README.md for my GitHub profile!
 
 **Languages and Other Skills**
 <p align="left">
