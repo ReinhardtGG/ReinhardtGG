@@ -16,7 +16,7 @@
 **Languages and Other Skills**
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ai,ps,ae,pr,au,html,css,c" />
+    <img src="https://skillicons.dev/icons?i=py,ai,ps,ae,pr,au,html,css,c,react" />
 </a>
 </p>
 
