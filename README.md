@@ -8,7 +8,7 @@
 **What I've accomplished so far**
 ---
 - ✅ "Hello, world!" in C, Python, and HTML (pretty cool, I know).
-- ✅ Assisted in **creating a print management web resource** for a university.
+- ✅ Assisted in **creating a print management web resource** for a university using **JavaScript, ReactJS, HTML, and CSS**.
 - ✅ Processed data from .csv files by creating an algorithm in a Jupyter notebook.
 - ✅ Watched a few lectures in full from **Harvard's CS50x 2025** (proud to say I know what "initializing a variable" means).
 - ✅ Created this README.md for my GitHub profile!
